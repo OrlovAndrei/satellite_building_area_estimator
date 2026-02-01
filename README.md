@@ -2,7 +2,7 @@
 
 Проект посвящён **сегментации спутниковых снимков и вычислению суммарной площади зданий**.
 В качестве исходных данных использован датасет **Inria Aerial Image Labeling Dataset**:
-[https://project.inria.fr/aerialimagelabeling/leaderboard/](https://project.inria.fr/aerialimagelabeling/leaderboard/)
+[https://project.inria.fr/aerialimagelabeling](https://project.inria.fr/aerialimagelabeling)
 
 Основные задачи проекта:
 
