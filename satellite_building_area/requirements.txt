@@ -1,0 +1,9 @@
+# PyTorch (CUDA 12.1)
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.2
+
+# Other dependencies
+numpy<2
+scikit-image
+gradio
+opencv-python

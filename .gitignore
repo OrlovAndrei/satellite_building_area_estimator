@@ -1,0 +1,7 @@
+data/
+.venv/
+checkpoints/
+checkpoints_scale/
+__pycache__/
+.gradio/
+*.pth
