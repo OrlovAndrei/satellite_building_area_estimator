@@ -226,11 +226,9 @@ Attention Gate позволяет:
 
 - количество эпох: **100**
 - функция потерь:
-  $$
-  {
-  L = 0.6 \cdot Dice + 0.4 \cdot Focal_{DT}
-  }
-  $$
+
+  ${ L = 0.6 \cdot Dice + 0.4 \cdot Focal_{DT}}$
+
   где Focal Loss взвешен пиксельными весами, вычисленными с помощью Distance Transform.
 
 Метрики:
